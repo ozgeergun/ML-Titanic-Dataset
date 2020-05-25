@@ -1,0 +1,11 @@
+﻿passenger class,sex,age,siblings,parents,passenger fare,adult_male,embark_town,alone
+1,female,22,5,0,50000,no,Queenstown,False
+1,male,87,0,0,5000,yes,Southampton,False
+3,male,9,0,4,700,no,Queenstown,False
+2,female,1,0,3,1000,no,Southampton,False
+3,male,25,0,0,180,yes,Cherbourg,False
+1,female,80,0,0,15000,0,Cherbourg,False
+2,male,80,3,0,1000,0,Cherbourg,True
+2,male,49,2,0,1000,1,Southampton,False
+3,female,18,0,2,200,0,Queenstown,True
+1,female,2,0,2,9000,0,Queenstown,False
